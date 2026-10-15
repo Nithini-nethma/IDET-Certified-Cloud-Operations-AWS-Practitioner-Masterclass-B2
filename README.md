@@ -20,6 +20,7 @@ This repository tracks daily learning and hands-on practice completed during the
 | Day 5 | High availability and scaling: vertical vs horizontal scaling, ALB target groups, health checks, and Auto Scaling Group setup/demo with cleanup steps. | `Day 5/DAY 5.md` |
 | Day 6 | AWS storage architecture with S3 deep dive: storage class strategy, lifecycle policies, versioning, security controls, and static website hosting demo. | `Day 6/s3-storage.md`, `Day 6/index.html` |
 | Day 7 | AWS database services: RDS/Aurora/DynamoDB concepts, guided RDS provisioning, DynamoDB CRUD + indexing + TTL demos, and database category study notes. | `Day 7/AWS_Database_Categories_Study_Notes.pdf`, `Day 7/databases.md` |
+| Day 8 | Cloud foundations and pricing, IAM fundamentals and account security, and EC2 and compute concepts | `Day 8/Day 8.md` |
 <!-- AUTO-GENERATED-SUMMARY:END -->
 
 ## What This Repository Helps You Learn
