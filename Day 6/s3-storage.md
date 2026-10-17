@@ -76,9 +76,9 @@ After 7 years → Delete automatically
 | ----- | ----- |
 | Bucket Policies | Define bucket-level permissions |
 | ACLs | Legacy permission model |
-| Block Public Access | Prevent accidental public exposure |
+| Block Public Access (URL ekak haraha access karanawa nadda kiyala balanna puluwan) | Prevent accidental public exposure |
 | IAM Policies | Control user/role access |
-| Encryption | Encrypt data at rest and in transit |
+| Encryption (automaticaly encript karanna puluwan) | Encrypt data at rest and in transit |
 ---
 
 # S3 Static Website Hosting [DEMO]
