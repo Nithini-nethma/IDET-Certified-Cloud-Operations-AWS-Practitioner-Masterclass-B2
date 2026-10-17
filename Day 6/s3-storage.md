@@ -35,11 +35,11 @@
 | ----- | ----- | ----- | ----- |
 | S3 Standard | Frequently accessed data | Instant | $$$ |
 | S3 Standard-IA | Infrequently accessed data | Instant | $$ |
-| S3 One Zone-IA | Infrequent data tolerant to AZ loss | Instant | $ |
+| S3 One Zone-IA (eka availability zone ekaka witharayi danne)| Infrequent data tolerant to AZ loss | Instant | $ |
 | S3 Glacier Instant | Quarterly archive access | Milliseconds | $ |
 | S3 Glacier Flexible | Long-term archives | Minutes to hours | ¢ |
-| S3 Glacier Deep Archive | Compliance retention | Up to 12 hours | ¢¢ |
-| S3 Intelligent-Tiering | Unknown/changing access | Instant | Automatic |
+| S3 Glacier Deep Archive (data cost eka adu unata acces karanna paya 12k wage yanawa) | Compliance retention | Up to 12 hours | ¢¢ |
+| S3 Intelligent-Tiering (automaticaly switch wenawa) | Unknown/changing access | Instant | Automatic |
 ---
 
 ## Real Cost Example
