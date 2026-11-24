@@ -21,6 +21,8 @@ This repository tracks daily learning and hands-on practice completed during the
 | Day 6 | AWS storage architecture with S3 deep dive: storage class strategy, lifecycle policies, versioning, security controls, and static website hosting demo. | `Day 6/s3-storage.md`, `Day 6/index.html` |
 | Day 7 | AWS database services: RDS/Aurora/DynamoDB concepts, guided RDS provisioning, DynamoDB CRUD + indexing + TTL demos, and database category study notes. | `Day 7/AWS_Database_Categories_Study_Notes.pdf`, `Day 7/databases.md` |
 | Day 8 | Cloud foundations and pricing, IAM fundamentals and account security, and EC2 and compute concepts | `Day 8/Day 8.md` |
+| Day 9 | Cloud foundations and pricing, IAM fundamentals and account security, and EC2 and compute concepts | `Day 9/Day 9.md` |
+| Day 12 | IAM fundamentals and account security, EC2 and compute concepts, and VPC networking | `Day 12/Day 12.pdf` |
 <!-- AUTO-GENERATED-SUMMARY:END -->
 
 ## What This Repository Helps You Learn
